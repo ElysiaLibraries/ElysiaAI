@@ -8,6 +8,8 @@ Elysia Libraries 🎵 is a curated collection of AI Audio Datasets, featuring Sp
 
 Follow us on [Twitter](https://x.com/ElysiaLibraries).
 
+https://www.elysialibraries.com/
+
 ## Table of Contents
 
 * [Speech](#speech)
